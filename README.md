@@ -5,7 +5,10 @@ development skills where I was allowed to use any mobile
 technologies I desired.
 
 I decided on using Flutter as I have very little experience with it but I also know
-that this company actively uses this techand wants people who are interested in Flutter/Dart.
+that this company actively uses this tech and wants people who are interested in Flutter/Dart.
+
+Total Completion time: 10 hours.
+
 ## Getting Started
 
 - First make sure that you have Flutter and Dart installed on your machine.
