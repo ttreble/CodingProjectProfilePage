@@ -33,3 +33,10 @@ Total Completion time: 10 hours.
     - You can create an Android emulator in Android Studio by going to Tools -> AVD Manager -> Create Virtual Device
     - You can also run the project on a physical device by connecting it to your machine and running `flutter run` in the terminal
 
+## Things to note
+- Functionality in changing the profile picture is not implemented as I ran out of free time
+- I have also not tested this on an Android device but it should work as expected
+- Some UI components were also not able to be replicated in my allotted time.
+
+
+
