@@ -1,11 +1,8 @@
 # Coding Project Profile Page
 
-The purpose of this project was to show a company my current
-development skills where I was allowed to use any mobile 
-technologies I desired.
+The purpose of this project was to create a viewable user profile page and an edit user page.
 
-I decided on using Flutter as I have very little experience with it but I also know
-that this company actively uses this tech and wants people who are interested in Flutter/Dart.
+I decided on using Flutter as I have very little experience with it and I wanted a way to learn mobile development..
 
 Total Completion time: 10 hours.
 
